@@ -1,6 +1,6 @@
 Flask==2.2.5
 langdetect==1.0.9
 modin==0.17.1
-numpy==1.23.5
+numpy==1.21.6
 scikit_learn==1.2.2
 scikit-learn-intelex==2023.1.1
