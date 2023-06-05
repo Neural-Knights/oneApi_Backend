@@ -1,4 +1,4 @@
-Flask==2.3.2
+Flask==2.2.5
 langdetect==1.0.9
 modin==0.22.0
 numpy==1.23.5
