@@ -2,6 +2,8 @@
 
 import numpy as np
 import modin.pandas as pd
+import os
+os.environ["MODIN_MEMORY"] = "8g"
 from statistics import harmonic_mean
 from langdetect import detect
 from sklearnex import patch_sklearn
